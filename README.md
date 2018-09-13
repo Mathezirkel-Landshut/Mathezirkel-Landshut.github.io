@@ -1,10 +1,10 @@
-Landshuter Lernwerkstatt
+# Landshuter Lernwerkstatt
 
-# Bisherige Instanzen
+## Bisherige Instanzen
 - Kryptowerkstatt
 - Musikalische Algorithmen
 
-# @Future:
+## @Future:
 - Physik > Prof. Hoehling anfragen
 - Mathematik in der Grundschule
 - Chaos macht Schule
