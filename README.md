@@ -1,7 +1,7 @@
 # Landshuter Lernwerkstatt
 
 ## Bisherige Instanzen
-- Kryptowerkstatt
+- Kryptowerkstatt (use BeissingerPless2006 for younger)
 - Musikalische Algorithmen
 - Drohnen mit Tynker programmieren
 - Graphen in der Grundschule (related, but with different lingua franca: 'Network Science' ((static) network
@@ -13,3 +13,4 @@
 - Mathematik in der Grundschule
 - Chaos macht Schule
 - Musik in der Grundschule (Wasserorgel)
+- Unplugged CS (Cortina2015) and variants of RoboRally
