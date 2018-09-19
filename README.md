@@ -10,8 +10,7 @@
 
 ## @Future:
 - Physik > Prof. Hoehling anfragen
-- Mathematik in der Grundschule
 - Chaos macht Schule, feat.
   [Hackerethik](https://de.wikipedia.org/wiki/Hackerethik)
-- Musik in der Grundschule (Wasserorgel)
+- Musik in der Grundschule (Wasserorgel, Monochord,)
 - Unplugged CS (Cortina2015) and variants of RoboRally
