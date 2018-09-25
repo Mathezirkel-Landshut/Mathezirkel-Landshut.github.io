@@ -10,7 +10,9 @@
 
 ## @Future:
 - Physik > Prof. Hoehling anfragen
-- Chaos macht Schule, feat.
-  [Hackerethik](https://de.wikipedia.org/wiki/Hackerethik)
+- [Chaos macht Schule](https://www.ccc.de/de/schule), feat.
+  [Hackerethik](https://de.wikipedia.org/wiki/Hackerethik). Beispiel:
+  [MUC CCC Lehrerfortbildung](http://schule.muc.ccc.de/lehrerfortbildung)
 - Musik in der Grundschule (Wasserorgel, Monochord,)
-- Unplugged CS (Cortina2015) and variants of RoboRally
+- Unplugged CS (Cortina2015) and variants of RoboRally, Kosmos ExitGames
+- [Escape-Room Landshut](https://www.greatescape-landshut.com/)
