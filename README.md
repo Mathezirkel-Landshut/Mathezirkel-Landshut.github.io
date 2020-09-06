@@ -1,4 +1,4 @@
-# Landshuter Lernwerkstatt
+# Landshuter Lernlabor (LLL)
 
 z. Zt. befinden sich alle Inhalte im geschlossenen
 [Moodle-Kurs](https://moodle.haw-landshut.de/course/view.php?id=3412)
