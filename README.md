@@ -43,3 +43,12 @@ Hans-Leinberger Gymnasium
 15 Schülerinnen und Schüler, 10. Klasse, Technik
 10:10-11:40 @HK 007
 13:00-14:30 @HK 007
+
+## Mittwoch, 07. Juli 2021: Online Escape Game
+Hans-Leinberger Gymnasium
+15 Schülerinnen und Schüler, 10. Klasse
+14:30-16:30
+
+1. Platz: Grubbe I (1h 5min.)
+2. Platz: Die Tripple Krümel (1h 17min.)
+3. Platz: Sauerkraut: (1h 30min.)
