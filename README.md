@@ -2,6 +2,9 @@
 
 z. Zt. befinden sich alle Inhalte im geschlossenen
 [Moodle-Kurs](https://moodle.haw-landshut.de/course/view.php?id=3412)
+
+TODO not in the current moodle; try the archive-moodle (06 Jan 2022)
+
 an der Hochschule Landshut.
 
 Hier listen wir deshalb nur die bisherigen Instanzen auf:
