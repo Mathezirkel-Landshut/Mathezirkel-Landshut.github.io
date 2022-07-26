@@ -7,7 +7,22 @@ TODO not in the current moodle; try the archive-moodle (06 Jan 2022)
 
 an der Hochschule Landshut.
 
-Hier listen wir deshalb nur die bisherigen Instanzen auf:
+Hier listen wir deshalb nur die bisherigen Instanzen -- umgekehrt
+chronologisch -- auf:
+
+## Donnerstag, 21. Juli 2022: Das ganze Leben ist ein Spiel
+Gymnasium Seligenthal
+20 Schülerinnen und Schüler, 10. Klasse
+12:45-14:15
+
+## Mittwoch, 07. Juli 2021: Online Escape Game
+Hans-Leinberger Gymnasium
+15 Schülerinnen und Schüler, 10. Klasse
+14:30-16:30
+
+1. Platz: Grubbe I (1h 5min.)
+2. Platz: Die Tripple Krümel (1h 17min.)
+3. Platz: Sauerkraut: (1h 30min.)
 
 ## Freitag, 12. Juli 2019: Musikalische Algorithmen
 FOS Erding
@@ -46,12 +61,3 @@ Hans-Leinberger Gymnasium
 15 Schülerinnen und Schüler, 10. Klasse, Technik
 10:10-11:40 @HK 007
 13:00-14:30 @HK 007
-
-## Mittwoch, 07. Juli 2021: Online Escape Game
-Hans-Leinberger Gymnasium
-15 Schülerinnen und Schüler, 10. Klasse
-14:30-16:30
-
-1. Platz: Grubbe I (1h 5min.)
-2. Platz: Die Tripple Krümel (1h 17min.)
-3. Platz: Sauerkraut: (1h 30min.)
