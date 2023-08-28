@@ -61,3 +61,34 @@ Hans-Leinberger Gymnasium
 15 Schülerinnen und Schüler, 10. Klasse, Technik
 10:10-11:40 @HK 007
 13:00-14:30 @HK 007
+
+# Grundausstattung
+
+- Gummibärchen (von der StuV) als Joker
+- Namensschilder (für Studierende -- und ?verschlüsselt? für Schüler)
+- Kamera (incl. SD-Karte, Akkus)
+- Papier & Bleistifte von der StuV
+
+# Literatur
+
+- Alexander Zvonkin, Math from Three to Seven: The Story of a
+  Mathematical Circle for Preschoolers
+- Carla Martin & Martin Tongen (2011), [Keeping it R.E.A.L.: Research
+  Experiences for All Learners](https://bookstore.ams.org/clrm-38/),
+  Classroom Resource Materials, Volume 38, MAA Press
+- Berthold Völking et al. (2011), Algorithms Unplugged, Springer
+-
+Tim Bell, Ian H. Witten and Mike Fellows (2015), CS Unplugged,
+https://classic.csunplugged.org/books/#german
+
+## Weiterführend
+
+- Birke-Johanna Weber, Anika Dreher, Aiso Heinze & Anke Lindmeier (2021), Aufbau eines berufsspezifischen Fachwissens für Lehramtsstudierende, Mitteilungen der Deutschen Mathematiker-Vereinigung, vol. 29, no. 2, 2021, pp. 84-88. https://doi.org/10.1515/dmvm-2021-0032
+
+# Verwandte Konzepte
+
+- [Math Circles](https://mathcircles.org/)
+- [LEARNING LAB "DIGITAL TECHNOLOGIES"](https://www.ll4dt.org/). Siehe
+  dazu auch Brehm & Günzel (2019), Learning Lab „Digital Technologies“
+  als „Plug & Play“-Lösung für die effektive Vermittlung digitaler
+  Kompetenzen, in [DiNa 06/2019](https://diz-bayern.de/DiNa/06_2019)
