@@ -4,8 +4,17 @@ title: Juniorhochschule (JHS)
 description: chronologische Aufzählung der Kurse bei der Juniorhochschule
 ---
 
+# Juniorhochschule
+
 Hier listen wir deshalb nur die bisherigen Instanzen -- umgekehrt
 chronologisch -- auf:
+
+## Mittwoch, 30. April 2025: Erkunden, Messen, Wissen: Warum Zeit der Schlüssel ist! (zusammen mit Hannah Jörg)
+Hans-Leinberger Gymnasium
+W-Seminar Physik, 15 SuS
+10:00-11:30
+
+## TODO fix missing
 
 ## Donnerstag, 21. Juli 2022: Das ganze Leben ist ein Spiel
 Gymnasium Seligenthal

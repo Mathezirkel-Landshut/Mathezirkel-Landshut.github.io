@@ -1,3 +1,25 @@
+---
+layout: page
+title: Mathezirkel-Landshut
+description: chronologische Aufzählung der Kurse bei der Juniorhochschule
+---
+
+Der Mathezirkel Landshut wendet sich an Mathematik-interessierte Schülerinnen und Schüler. Hierzu bieten wir die folgenden Veranstaltungen:
+
+- MathePlus-Kurs (90 Min., alle 2 Wochen während der Schulzeit)
+- Mathe-Workshops in den Ferien (4 Stunden, jeweils in den Weihnachts-/Faschings-/Oster-/Pfingst-/Sommer-Ferien)
+- Module bei der Junior-Hochschule ()
+
+Ausserdem betreiben wir ein Mathe-Mitmach-Museum und gehen damit auch ab und zu auf Tour.
+
+Einladungen zu den Ferienworkshops verschicken wir an die Schulen in und um Landshut. Interessierte Schülerinnen und Schüler (oder ihre Eltern) können sich aber auch direkt auf unserer [Mailingliste](https://lists.lrz.de/mailman/listinfo/mathezirkel-landshut) eintragen und erhalten die Einladungen dann ohne Verzögerung direkt.
+
+
+
+
+
+WORKINGMARK
+
 # Landshuter Lernlabor (LLL)
 
 z. Zt. befinden sich alle Inhalte im geschlossenen
