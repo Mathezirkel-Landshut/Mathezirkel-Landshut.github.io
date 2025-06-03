@@ -10,6 +10,6 @@ description: Mathematik-Kurs mit Schwerpunkt Wettbewerbsaufgaben
 # Termine im Sommer 2025
 
 - Freitag, 06. Juni 2025
-- ++20. Juni 2025++ Pfingstferien
+- ~~20. Juni 2025~~ Pfingstferien
 - Freitag, 04. Juli 2025
 - Freitag, 18. Juli 2025
