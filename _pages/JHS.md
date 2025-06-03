@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Juniorhochschule (JHS)
-description: chronologische Aufzählung der Kurse bei der Juniorhochschule
+description: chronologische Aufzählung der Kurse bei der
+Juniorhochschule
+order: 2
 ---
 
 # Juniorhochschule
@@ -67,3 +69,5 @@ Hans-Leinberger Gymnasium
 15 Schülerinnen und Schüler, 10. Klasse, Technik
 10:10-11:40 @HK 007
 13:00-14:30 @HK 007
+
+[Zurück zur Startseite](/)

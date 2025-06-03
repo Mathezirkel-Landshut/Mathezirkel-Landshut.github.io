@@ -2,6 +2,7 @@
 layout: page
 title: Mathe-Mitmach-Museum
 description: Vier Vitrinen im K0.08 mit mathematischen Spielen
+order: 0
 ---
 
 # Hex and other connection games (graph theory)
@@ -18,3 +19,5 @@ description: Vier Vitrinen im K0.08 mit mathematischen Spielen
 
 # TODO
 Origami?
+
+[Zurück zur Startseite](/)

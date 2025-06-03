@@ -1,12 +1,17 @@
 ---
-layout: page
+layout: default
 title: Mathezirkel-Landshut
 description: chronologische Aufzählung der Kurse bei der Juniorhochschule
 ---
 
-# TOC
-{:toc}
+# Übersicht über die Aktivitäten
 
+{% assign sorted_pages = site.pages | where_exp: "p", "p.path contains '_pages/'" | sort: "order" %}
+<ul>
+  {% for page in sorted_pages %}
+    <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+  {% endfor %}
+</ul>
 
 Der Mathezirkel Landshut wendet sich an Mathematik-interessierte Schülerinnen und Schüler. Hierzu bieten wir die folgenden Veranstaltungen:
 

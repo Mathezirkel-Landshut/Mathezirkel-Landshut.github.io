@@ -2,6 +2,7 @@
 layout: page
 title: MathePlus-Kurs in Landshut
 description: Mathematik-Kurs mit Schwerpunkt Wettbewerbsaufgaben
+order: 3
 ---
 
 - Zeit: 14-tägig freitags, 14:00-15:30 Uhr
@@ -13,3 +14,5 @@ description: Mathematik-Kurs mit Schwerpunkt Wettbewerbsaufgaben
 - ~~20. Juni 2025~~ Pfingstferien
 - Freitag, 04. Juli 2025
 - Freitag, 18. Juli 2025
+
+[Zurück zur Startseite](/)

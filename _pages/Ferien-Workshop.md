@@ -2,6 +2,7 @@
 layout: page
 title: Mathe-Workshop in den Ferien
 description: chronologische Aufzählung der Ferien-Workshops
+order: 4
 ---
 
 Termin: jeweils 10:00-14:00 Uhr
@@ -23,3 +24,5 @@ Unendlichkeiten und doppeltes Abzählen
 # 2. Mathe-Workshop in den Ferien: Mittwoch, 31. Juli 2024 (Sommerferien)
 
 # 1. Mathe-Workshop in den Ferien: Dienstag, 21. Mai 2024 (Pfingsten)
+
+[Zurück zur Startseite](/)
