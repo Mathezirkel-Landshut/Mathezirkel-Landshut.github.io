@@ -4,6 +4,10 @@ title: Mathezirkel-Landshut
 description: chronologische Aufzählung der Kurse bei der Juniorhochschule
 ---
 
+# TOC
+{:toc}
+
+
 Der Mathezirkel Landshut wendet sich an Mathematik-interessierte Schülerinnen und Schüler. Hierzu bieten wir die folgenden Veranstaltungen:
 
 - MathePlus-Kurs (90 Min., alle 2 Wochen während der Schulzeit)
