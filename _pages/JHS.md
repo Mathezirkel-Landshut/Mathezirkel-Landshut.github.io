@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Juniorhochschule (JHS)
-description: chronologische Aufzählung der Kurse bei der
-Juniorhochschule
+description: chronologische Aufzählung der Kurse bei der Juniorhochschule
 order: 2
 ---
 
