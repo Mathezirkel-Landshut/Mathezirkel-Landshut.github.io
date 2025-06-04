@@ -23,11 +23,48 @@ Ausserdem betreiben wir ein Mathe-Mitmach-Museum und gehen damit auch ab und zu 
 
 Einladungen zu den Ferienworkshops verschicken wir an die Schulen in und um Landshut. Interessierte Schülerinnen und Schüler (oder ihre Eltern) können sich aber auch direkt auf unserer [Mailingliste](https://lists.lrz.de/mailman/listinfo/mathezirkel-landshut) eintragen und erhalten die Einladungen dann ohne Verzögerung direkt.
 
+# Literatur
+
+## Übersichten
+
+- https://mathcircle.berkeley.edu/books
+- https://denisegaskins.com/living-math-books/problem-solving-and-math-circles/
+
+## Bücher
+
+- [MSRI Mathematical Circles Library](https://bookstore.ams.org/mcl)
+
+Insbesondere
+- Volume 8, [A Moscow Math Circle](https://bookstore.ams.org/mcl-8)
+- Volume 28, [A Festival of Mathematics](https://maa.org/press/maa-reviews/a-festival-of-mathematics-a-source-book)
+
+## Zeitschriften
+
+- [Math Horizons](https://maa.org/press/periodicals/math-horizons)
 
 
+# Andere Mathezirkel und ähnliche Veranstaltungen
+
+## Übersichten der DMV
+
+- [Mathe-Landkarte](https://www.mathematik.de/mathematik-landkarte)
+  mathematischer Projekte an Schulen, Hochschulen oder außerschulischen Standorten
+- [Schüler*innencamps](https://www.mathematik.de/schuelerinnencamps)
+
+## Standorte
+
+- [TUM Mathezirkel](https://www.math.cit.tum.de/math/department/outreach-activities/schulportal/schuelerinnen/mathezirkel/)
+- [U Regensburg Schülerzirkel Mathematik](
+https://schuelerzirkel.app.uni-regensburg.de/pm_wiki_latest/pmwiki-2.3.2/pmwiki.php)
+- [U Passau](https://www.fim.uni-passau.de/schueler-lehrer/mathematik/mathezirkel)
+- [U Padernborn Mathezirkel](https://math.uni-paderborn.de/studieninteressierte/mathezirkel)
+- [TUM TdMfSS](https://www.math.cit.tum.de/math/department/outreach-activities/schulportal/schuelerinnen/tdmfss/)
 
 
 WORKINGMARK
+
+
+
 
 # Landshuter Lernlabor (LLL)
 

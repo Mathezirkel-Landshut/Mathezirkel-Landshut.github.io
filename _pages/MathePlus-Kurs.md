@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MathePlus-Kurs in Landshut
+title: MathePlus-Kurs
 description: Mathematik-Kurs mit Schwerpunkt Wettbewerbsaufgaben
 order: 3
 ---
