@@ -53,12 +53,15 @@ Insbesondere
 
 ## Standorte
 
+- [Mathezirkel Augsburg](https://www.mathezirkel-augsburg.de/)
 - [TUM Mathezirkel](https://www.math.cit.tum.de/math/department/outreach-activities/schulportal/schuelerinnen/mathezirkel/)
 - [U Regensburg Schülerzirkel Mathematik](
 https://schuelerzirkel.app.uni-regensburg.de/pm_wiki_latest/pmwiki-2.3.2/pmwiki.php)
 - [U Passau](https://www.fim.uni-passau.de/schueler-lehrer/mathematik/mathezirkel)
 - [U Padernborn Mathezirkel](https://math.uni-paderborn.de/studieninteressierte/mathezirkel)
-- [TUM TdMfSS](https://www.math.cit.tum.de/math/department/outreach-activities/schulportal/schuelerinnen/tdmfss/)
+- [TUM
+  TdMfSS](https://www.math.cit.tum.de/math/department/outreach-activities/schulportal/schuelerinnen/tdmfss/)
+- [Stanford Math Circle](https://mathcircle.spcs.stanford.edu/)
 
 
 WORKINGMARK
