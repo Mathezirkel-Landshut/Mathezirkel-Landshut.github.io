@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Mathe-Mitmach-Museum
+title: Mathe-Museum
 description: Vier Vitrinen im K0.08 mit mathematischen Spielen
 order: 0
 ---
+
+Das Mathe-Museum im Labor Wissenschaftliches Rechnen (K0.08) versteht sich als Mitmach-Museum.
 
 # Hex and other connection games (graph theory)
 
