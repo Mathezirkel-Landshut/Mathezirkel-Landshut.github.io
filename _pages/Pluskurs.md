@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MathePlus-Kurs
+title: Mathe-Pluskurs
 description: Mathematik-Kurs mit Schwerpunkt Wettbewerbsaufgaben
 order: 3
 ---

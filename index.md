@@ -15,8 +15,8 @@ description: chronologische Aufzählung der Kurse bei der Juniorhochschule
 
 Der Mathezirkel Landshut wendet sich an Mathematik-interessierte Schülerinnen und Schüler. Hierzu bieten wir die folgenden Veranstaltungen:
 
-- MathePlus-Kurs (90 Min., alle 2 Wochen während der Schulzeit)
-- Mathe-Workshops in den Ferien (4 Stunden, jeweils in den Weihnachts-/Faschings-/Oster-/Pfingst-/Sommer-Ferien)
+- Mathe-Pluskurs (90 Min., alle 2 Wochen während der Schulzeit)
+- Mathe-Ferienworkshops (4 Stunden, jeweils in den Weihnachts-/Faschings-/Oster-/Pfingst-/Sommer-Ferien)
 - Module bei der Junior-Hochschule ()
 
 Ausserdem betreiben wir ein Mathe-Mitmach-Museum und gehen damit auch ab und zu auf Tour.

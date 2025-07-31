@@ -1,12 +1,16 @@
 ---
 layout: page
-title: Mathe-Workshop in den Ferien
-description: chronologische Aufzählung der Ferien-Workshops
+title: Mathe-Ferienworkshop
+description: chronologische Aufzählung der Workshops
 order: 4
 ---
 
 Termin: jeweils 10:00-14:00 Uhr
 Ort: Hochschule Landshut, Treffpunkt Raum K0.08
+
+# 7. Mathe-Workshop in den Ferien am Dienstag, 05. August 2025
+
+Komplexe Zahlen und die imaginäre Einheit i
 
 # 6. Mathe-Workshop in den Ferien am Mittwoch, 18. Juni 2025
 (Pfingsten)
