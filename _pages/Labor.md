@@ -1,11 +1,14 @@
 ---
 layout: page
-title: Mathe-Museum
-description: Vier Vitrinen im K0.08 mit mathematischen Spielen
+title: Mathe-Labor
+description: Vier Vitrinen im K0.08 mit mathematischen Drucken, Spielen,
+Kunst und Literatur
 order: 0
 ---
 
-Das Mathe-Museum im Labor Wissenschaftliches Rechnen (K0.08) versteht sich als Mitmach-Museum.
+Das Mathe-Labor befindet sich im Labor Wissenschaftliches Rechnen
+(K0.08). Es ist mehr als ein Museum oder eine Bibliothek, sondern lädt
+zum Anfassen, Ausprobieren und Experimentieren ein.
 
 # Hex and other connection games (graph theory)
 
