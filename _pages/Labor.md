@@ -14,14 +14,33 @@ zum Anfassen, Ausprobieren und Experimentieren ein.
 # Vitrine A: Dimensionen und Projektionen
 Projektionen
 
+- Moebius
+- Kleinsche Flasche
+- Kochsche Schneeflocke
+- Sierpinski Pyramide
+- Penrose Dreieck
+- Projektionen
+
 # Vitrine B: Parkettierungen und Einbeschreibungen
 Einbeschreibungen
 
 # Vitrine C: Crypto
-Crypto
+
+- Enigma
+- Caesar
+- Skytale
+- Visky
+
+# Vitrine D: dynamische Systeme
+
+- Apfelmännchen
+- Zeemann Katastrophenmaschine
+- exponentielles Wachstum
+
 
 # Vitrine E: astronomische Entfernungsleiter
-Entfernungsleiter
+
+- Orrerey
 
 
 
