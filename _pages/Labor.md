@@ -10,6 +10,23 @@ Das Mathe-Labor befindet sich im Labor Wissenschaftliches Rechnen
 (K0.08). Es ist mehr als ein Museum oder eine Bibliothek, sondern lädt
 zum Anfassen, Ausprobieren und Experimentieren ein.
 
+
+# Vitrine A: Dimensionen und Projektionen
+Projektionen
+
+# Vitrine B: Parkettierungen und Einbeschreibungen
+Einbeschreibungen
+
+# Vitrine C: Crypto
+Crypto
+
+# Vitrine E: astronomische Entfernungsleiter
+Entfernungsleiter
+
+
+
+
+
 # Hex and other connection games (graph theory)
 
 # Set and athor selection games (combinatorics)
