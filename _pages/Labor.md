@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Mathe-Labor
-description: Vier Vitrinen im K0.08 mit mathematischen Drucken,
-Spielen, Kunst und Literatur
+description: Vier Vitrinen im K0.08 mit mathematischen Exponaten
 order: 1
 ---
 
@@ -10,6 +9,7 @@ Das Mathe-Labor befindet sich im Labor Wissenschaftliches Rechnen
 (K0.08). Es ist mehr als ein Museum oder eine Bibliothek, sondern lädt
 zum Anfassen, Ausprobieren und Experimentieren ein.
 
+3D-Drucke, Spiele, Kunst und Literatur
 
 # Vitrine A: Dimensionen und Projektionen
 Projektionen
