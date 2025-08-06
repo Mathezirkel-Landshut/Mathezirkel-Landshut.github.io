@@ -2,7 +2,7 @@
 layout: page
 title: Mathe-Museum
 description: Vier Vitrinen im K0.08 mit mathematischen Spielen
-order: 0
+order: 1 
 ---
 
 Das Mathe-Museum im Labor Wissenschaftliches Rechnen (K0.08) versteht sich als Mitmach-Museum.
