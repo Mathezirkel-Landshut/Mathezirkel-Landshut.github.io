@@ -5,8 +5,23 @@ description: Mathematik-Kurs mit Schwerpunkt Wettbewerbsaufgaben
 order: 3
 ---
 
-- Zeit: 14-tägig freitags, 14:00-15:30 Uhr
+- Termin im Winter 2025/26: 14-tägig dienstags, 15:00-16:30 Uhr
 - Ort: Gymnasium Seligenthal
+
+# Winter 2025/26
+
+## Dienstag, 07. Oktober 2025
+
+- 7 TN
+
+## Dienstag, 21. Oktober 2025
+
+- Thema: Extremalprinzip
+
+## ~~Dienstag, 04. November 2025~~ Herbstferien
+
+## NEXT Dienstag, 18. November 2025
+
 
 # Termine im Sommer 2025
 
