@@ -8,12 +8,15 @@ order: 4
 Termin: jeweils 10:00-14:00 Uhr
 Ort: Hochschule Landshut, Treffpunkt Raum K0.08
 
-# 7. Mathe-Workshop in den Ferien am Dienstag, 05. August 2025
+# 8. Mathe-Workshop in den Ferien am Donnerstag, 06. November 2025 (Herbstferien)
+
+Kreisspiegelung
+
+# 7. Mathe-Workshop in den Ferien am Dienstag, 05. August 2025 (Sommerferien)
 
 Komplexe Zahlen und die imaginäre Einheit i
 
-# 6. Mathe-Workshop in den Ferien am Mittwoch, 18. Juni 2025
-(Pfingsten)
+# 6. Mathe-Workshop in den Ferien am Mittwoch, 18. Juni 2025 (Pfingsten)
 
 Diffie-Hellman Schlüsseltausch und Laufzeitanalyse
 
